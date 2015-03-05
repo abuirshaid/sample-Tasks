@@ -1,4 +1,7 @@
 # sample-Tasks
+
+**This is a fork of the main [NativeScript tasks sample](https://github.com/NativeScript/sample-Tasks) that you can run from the NativeScript CLI.**
+
 Open source cross-platform Tasks app built with NativeScript.
 
 Use this application to find-out how to implement common mobile scenarios with NativeScript.
